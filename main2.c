@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
    printf("input a character :");
    scanf("%c", &text);
    
-   printf("the text of character of %c (%d) is %c (%d)\n", text, text, text+1);
+   printf("the text of character of %c (%d) is %c (%d)\n", text, text,text+1, text+1);
    
 	
 	
